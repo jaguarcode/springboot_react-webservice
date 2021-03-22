@@ -1,12 +1,12 @@
-# springboot_react-webservice
+## springboot and react.js preset for webservice
 
-## FRONT-END SERVER (Only View)
+### Front-end Server (Views)
  - React.js
- - This front-end server work at 3000 port
+ - This front-end server work at port 3000
 
-## BACK-END SERVER (Api Server)
- - Spring Boot with JPA
- - This back-end server work at 8080 port
+### Back-end Server (API)
+ - Spring Boot
+ - This back-end server work at port 8080
 
-## DATABASE
+### Database with JPA
  - MariaDB
