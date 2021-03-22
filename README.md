@@ -10,3 +10,9 @@
 
 ### Database with JPA
  - MariaDB
+
+--------
+
+### Deploy
+#### Make War (it will copy frontend files to backend build path)
+ - Gradle -> bulid -> bootWar
