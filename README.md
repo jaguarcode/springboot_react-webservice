@@ -1,7 +1,7 @@
 # springboot_react-webservice
 
-##FRONT-END SERVER
+## FRONT-END SERVER
  - React.js
 
-##BACK-END SERVER
+## BACK-END SERVER
  - Spring Boot
